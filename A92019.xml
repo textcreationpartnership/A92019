@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The routing of the Lord Digby, and Sir Marmad. Langdale at Carlisle-Sands; by Sir John Brown. Certified by letters from Sir John Brown, to Generall Lesley, and other letters to the Scots commissioners. 100. slain upon the place. 200. horse taken. Digbyes quartermaster general. 3. collonels &amp; lieut. collonels. 3. captaines. The Lord Digbyes standard. Sir Marm. Langdales standard. 3. cullers of horse. 1000. totally routed; and the Lord Digby and Sir Marmaduke Langdale, fled to the Isle of Man in a cock-boat. Commanded to be printed, and published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92019</idno><idno type="EEBO-CITATION">99861158</idno>
+  <idno type="VID">113286</idno>
+  <idno type="EEBO-PROQUEST">2240886909</idno>
+  
+            <idno type="STC">Wing R2054</idno>
+            <idno type="STC">Thomason E308_7</idno>
+            <idno type="STC">ESTC R200366</idno>
+            <idno type="PROQUEST">99861158</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861158e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113286)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E308[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The routing of the Lord Digby, and Sir Marmad. Langdale at Carlisle-Sands; by Sir John Brown. Certified by letters from Sir John Brown, to Generall Lesley, and other letters to the Scots commissioners. 100. slain upon the place. 200. horse taken. Digbyes quartermaster general. 3. collonels &amp; lieut. collonels. 3. captaines. The Lord Digbyes standard. Sir Marm. Langdales standard. 3. cullers of horse. 1000. totally routed; and the Lord Digby and Sir Marmaduke Langdale, fled to the Isle of Man in a cock-boat. Commanded to be printed, and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Jane Coe.,</publisher>
+                  <pubPlace>London printed, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 3d:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brown, John, --  Sir, d. 1651 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Carlisle (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113286:1"/>
+            <p>THE ROUTING OF THE LORD DIGBY, AND Sir MARMAD. LANGDALE at CARLISLE-Sands; <hi>By Sir JOHN BROWN.</hi>
+            </p>
+            <p>Certified by Letters from Sir JOHN BROWN, to Generall <hi>Lesley,</hi> and other Letters to the Scots Commissioners.</p>
+            <list>
+               <item>100. Slain upon the place.</item>
+               <item>200. Horse taken.</item>
+               <item>Digbyes quartermaster General.</item>
+               <item>3. Collonels &amp; Lieut. Collonels.</item>
+               <item>3. Captaines.</item>
+               <item>The Lord Digbyes Standard.</item>
+               <item>Sir Marm. Langdales Standard.</item>
+               <item>3. Cullers of Horse.</item>
+               <item>1000. totally routed; and the Lord Digby and Sir Marma<g ref="char:EOLhyphen"/>duke Langdale, fled to the Isle of Man in a Cock-boat.</item>
+            </list>
+            <p>Commanded to be Printed, and published according to Order. <add>Nouemb :3<seg rend="sup">d</seg>:</add>
+            </p>
+            <p>London Printed, by JANE COE. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_victory_against_Kings_forces">
+            <pb facs="tcp:113286:2"/>
+            <pb n="1" facs="tcp:113286:2"/>
+            <head>A Great Victory obtained against the Lord <hi>Digby</hi> and Sir <hi>Marmaduke Langdale,</hi> and the rest of the Kings Forces, that were going to joyne with Montrosse; Obtained by Sir JOHN BROWN, on Carlisle Sands.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Here are divers Letters come to certifie this action, and the Particulars thereof; both from Sir</hi> John Brown <hi>(the Commander in Chief who did the action) to Generall</hi> Les<g ref="char:EOLhyphen"/>ley; <hi>And also from Generall</hi> Lesley <hi>to the Scotch Commissioners: As also, from di<g ref="char:EOLhyphen"/>vers other Officers and Gentlemen. The substance of which Letters are as followeth.</hi>
+            </p>
+            <p>Viz.<lb/> The Lord Digby, and Sir Marmaduke Langdale, having sent to Bolton, and others of their party in Lancashire, and Cumberland, and other places to come to them, and joyne
+<pb n="2" facs="tcp:113286:3"/> in their march towards Scotland, where they intended to joyn with Montrosse; marched from Skipton Northward, and in<g ref="char:EOLhyphen"/>deavoured to have passed by Kirby Lunsdale, where Collonel Briggs having intelligence of their design, made good a passe against them, whereby he forced them to turn by the way of the sands about Partmake to get into Cumberland, their chiefe guide being Sir William Huddleston, who engaged what party he could to their assistance, and brought them to Millum Castle his own house upon the Sea coasts.</p>
+            <p>About which time there was some foure or five ships seen upon those coasts, and thereupon conceived that they were laden with Irish to joyne with Digby about White-H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven, but they proved some of our own Navy. It seemes that Dig<g ref="char:EOLhyphen"/>bies design was to have gone into Scotland, to have joyned with Montrosse; which design, he (it seems was much encouraged in, by Sir Marmaduke Langdale and Sir William Huddleston) who is growne so great a man with Digby of late, that he is confident to be added to the new moddell of Lords.</p>
+            <p>Thus by their activity they had gotten together about one thousand horse under the command of the Lord Digby, and Sir Marmaduke Langdale, and with them were upon their march towards Montrosse.</p>
+            <p>Lieutenant General David Lesley with about two thousand was upon his advance towards them, and lay between them and Montrosse, to hinder their conjunction with Digby; in the mean while the well affected Gentry of Cumberland were forced to flye for their security; the enemy plundering, and u<g ref="char:EOLhyphen"/>sed great cruelty all the way as they passed: insomuch that the country people made a great acclamation against them.</p>
+            <p>Generall Lesley sent out a Brigade of about 1<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>00 horse, under the command of Major Generall Van-druske, to pursue the enemy; and a Regiment of English horse also were desig<g ref="char:EOLhyphen"/>ned
+<pb n="3" facs="tcp:113286:3"/> after them to gaine a passe, in case the enemy came back to hinder their retreats.</p>
+            <p>Major Generall Van-drusk with the Scots Brigade pursued the enemy so close, that they discovered them in their march, and endeavoured to force them to engage, which the enemy endeavoured to avoyd, Major Generall Van-drusk divided his men, and made good s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verall passes, but by reason of the lownesse of the tide, Digby and Langdale got away over the Fords by reason of the lownesse of the water; over which, Van drusk followed them, the enemy fled over another water, and so over three or four severall places one after another so long, till the flowing of the Sea came in after they had passed the last Ford, and before Van drusk could with his body get over, the water were swelled too high to pursue further; whereby Digby got an opportunity with his forces to escape them.</p>
+            <p>In the mean while the Lord Balmers<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth with what forces he could raise out of the Frontiers of Scotland prepared to oppose Digby, who with his party (Digby it seems having intelligence thereof, that) occasioned his retreat, and so whee<g ref="char:EOLhyphen"/>ling about escaped his forces, and it avoided ingagement at that time, but all this while Digby increased, and ga<g ref="char:EOLhyphen"/>thered forces; and was 1000 at the least, and committed many outrages, and villanous plunderings with his men in all places where he came, sparing neither friend nor foe; yet all this while Digby and Langdale avoided all our forces and it seems had guides that were very perfect in the waies where he was to march, if that he escaped every partee all this while; but yet we me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with him afterwards with a small partee, but yet it pleased God to make them so <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arte powerfull against tuem, as to rour and spoile them.</p>
+            <p>Sir Iohn Brown, a very gallant active man, undertooke
+<pb n="4" facs="tcp:113286:4"/> with a small party of betweene 4. and 500. to seeke out Dig<g ref="char:EOLhyphen"/>by and his nimble brigade, that had so many quirkes, and turnings, and if it were possible to force them to engage which he performed with great wisdome, and valour.</p>
+            <p>S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Iohn Brown divided his smal party, about 150 were sent to make good a passe, whilst the rest being not above 300: marched out towards the enemy, Sir Iohn Brown having then Intelligence that the Lord Digby; Sir Marmaduke Langdale and the rest, in number about 1000. were about Carlisle sands, whether he hasted after them, and Digby (it seemes) had In<g ref="char:EOLhyphen"/>telligence of forces coming against him, but (it is prob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble he knew not the number, for he) fled from them, neerer to the sea, whether Sir Iohn Brown followed them, and it pleased God to give him an opportunity to fall on the enemy the thing that Sir Iohn much desired, and the tide being up, Sir Iohn Brown gained a passe, which is a kind of passe over a place which we got and made good, though he was so few, and the enemie so many, yet Sir Iohn Brown was resolved to engage, and to runne that hazard, trusting in Gods alsufficiency, and accordingly drew up.</p>
+            <p>But Sir Iohn Browne, being willing to hazard his own per<g ref="char:EOLhyphen"/>son, yet he sent away his Cullers to Generall Leshly; with some other things that could not do much help but hinder the fight; and sent word to Generall Leshly; what a resolution he had to force Digby to engage, and what an opportunity he had to do it, which though so few, yet with those he had he would runne the hazard, his number being then not full 300. but well mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted, and Armed.</p>
+            <p>Vpon their approach the Lord Digby tooke an alarme in his quarters, and understanding that the party were but small, drew into a posture to fight with them, and Sir Iohn Digby divided his forces into two bodyes, one of which stayed with
+<pb n="5" facs="tcp:113286:4"/> him, and the other Commanded by Sir Marmaduke Lang<g ref="char:EOLhyphen"/>dale; Digby stayed with his party, and Langdales came up to<g ref="char:EOLhyphen"/>wards Sir Iohn Brown, and they faced each other awhile, the enemy being then surrounded by the waters.</p>
+            <p>Sir Iohn Brown sent Captaine Leshly on the forlone hope, who drew up; and being met by the enemie charged them ve<g ref="char:EOLhyphen"/>ry gallantly, the reserve charged up to him seasonably with Sir Iohn Brown; and all of them in their severall places, (ac<g ref="char:EOLhyphen"/>cording to their degrees) did all very much and in short time, break through their body and routed them▪ Their reserv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> some of them came up, but most fled; And in this action Sir Iohn Brown himselfe deported himselfe with as much gal<g ref="char:EOLhyphen"/>lantry as any man in the world could do, the whole body being not discouraged, though in number so much overmatched.</p>
+            <p>For the particulars of those was killed, and taken, I re<g ref="char:EOLhyphen"/>ferre you to the list, where all the perticulars are certified, ac<g ref="char:EOLhyphen"/>cording to Sir Iohn Browns own letter.</p>
+            <p>The Lord Digby had a very cleere rout as ever was given to any; The Lord Digby himselfe with Sir Marmaduke Lang<g ref="char:EOLhyphen"/>dale, and others of his cheefe officers that escaped fled over to the Ile of man in a cock boate; the Ile of man is a malignant Iland betweene Cumberland and Ierland; the Earle of Derby is the Governour thereof for the King: and of others that es<g ref="char:EOLhyphen"/>caped, there are divers taken straglers, and their horse, and armes, but in a body there are none heard of, saue only about 200, that are fled towards Bolton; and a party are sent to stopp them from getting in thereto, if they can, but of them that are fled that way of the enemies, many of them are sore woun<g ref="char:EOLhyphen"/>ded.</p>
+            <p>It is beleeved that the Lord Digby and Sir Marmaduke Langdale will passe over into Ireland, Sir Iohn Brown is shot, but is able to sit on his horse-back.</p>
+         </div>
+         <div type="list_of_slain_and_prisoners">
+            <pb n="6" facs="tcp:113286:5"/>
+            <head>A Lyst of what was slain, and what was t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken by Sir <hi>Iohn Brown</hi> at the routing of the Lord <hi>Digby</hi> and Sir <hi>Marmaduke Langdale</hi> at Carlisle Sands.</head>
+            <list>
+               <item>
+                  <list>
+                     <head>On the enemies part.</head>
+                     <item>100 Slaine upon the place.</item>
+                     <item>Many wounded.</item>
+                  </list>
+                  <list>
+                     <head>Taken Prisoners.</head>
+                     <item>Digby his Quartermaster Ge<g ref="char:EOLhyphen"/>nerall.</item>
+                     <item>1 Collonel of Langdales Bri<g ref="char:EOLhyphen"/>gade.</item>
+                     <item>2 Lieutenant Collonels.</item>
+                     <item>3 Captains of horse.</item>
+                     <item>Divers other Officers.</item>
+                     <item>Many Prisoners.</item>
+                  </list>
+                  <list>
+                     <head>Taken besides,</head>
+                     <item>200 Horse and Armes.</item>
+                     <item>The Lord Digbies own Stan<g ref="char:EOLhyphen"/>dard.</item>
+                     <item>Sir Marmaduke Langdales</item>
+                     <item>Standard;</item>
+                     <item>3 Cullers of Horse.</item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <head>On our part.</head>
+                     <item>Sir Iohn Brown shot through his side, but not mortally for he is able to sit upon his horse back.</item>
+                     <item>Captain Lesley wounded.</item>
+                     <item>30 and odde slain, amongst whom some Officers, but none of note that I hear of.</item>
+                     <item>50. or there abouts wounded on our side, in all.</item>
+                     <item>Digby and Langdale with 1000 horse were totally routed by Sir Iohn Brown, with a p<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rty of about 300. and Digby and Langdale fled to the Isle of Man in a Cock-boat.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
